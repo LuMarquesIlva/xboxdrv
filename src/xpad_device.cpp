@@ -57,6 +57,7 @@ XPadDevice xpad_devices[] = {
   { GAMEPAD_XBOX,             0x102c, 0xff0c, "Joytech Wireless Advanced Controller" },
   { GAMEPAD_XBOX,             0x044f, 0x0f07, "Thrustmaster, Inc. Controller" },
   { GAMEPAD_XBOX,             0x0e8f, 0x3008, "Generic Xbox controller (DealExtreme)" },
+  { GAMEPAD_XBOX,             0x11c1, 0x2001, "Generic Xbox Controller (Lukton)" },
   { GAMEPAD_XBOX360,          0x045e, 0x028e, "Microsoft X-Box 360 pad" },
   { GAMEPAD_XBOX360_PLAY_N_CHARGE, 0x045e, 0x028f, "Microsoft Xbox 360 Play&Charge Kit" },
   { GAMEPAD_XBOX360,          0x0738, 0x4716, "Mad Catz Wired Xbox 360 Controller" },
